@@ -22,6 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,7 +33,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607335062007</updated>
-      <workItem from="1607335063179" duration="3889000" />
+      <workItem from="1607335063179" duration="4847000" />
     </task>
     <servers />
   </component>
@@ -40,6 +41,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1607341571665">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1607341571665" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607337055181">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

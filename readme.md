@@ -33,6 +33,7 @@ Voici un schéma qui récapitule tout ceci.
 #### Structure de notre projet
 
 Notre projet aura donc la structure ci-dessous
+
 ![](assets/img/structure.jpg)
 
 Voici l'utilité des différents dossiers et fichiers
